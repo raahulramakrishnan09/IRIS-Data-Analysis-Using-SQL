@@ -1,6 +1,7 @@
 -- Creating Table named directors:
 
-CREATE TABLE iris (
+CREATE TABLE iris 
+(
     sepal_l FLOAT,
     sepal_w FLOAT,
     petal_l FLOAT,

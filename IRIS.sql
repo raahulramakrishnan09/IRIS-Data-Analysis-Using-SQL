@@ -1,4 +1,4 @@
--- Creating Table named directors:
+-- Creating Table named iris:
 
 CREATE TABLE iris 
 (

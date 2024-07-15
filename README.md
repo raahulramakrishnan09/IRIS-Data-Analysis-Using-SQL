@@ -21,10 +21,10 @@ The purpose of this repository is to demonstrate SQL queries for typical data an
 1. **Creating Table:**
    ```sql
    CREATE TABLE iris (
-       sepal_l FLOAT,
-       sepal_w FLOAT,
-       petal_l FLOAT,
-       petal_w FLOAT,
+       sepal_l FLOAT(50),
+       sepal_w FLOAT(50),
+       petal_l FLOAT(50),
+       petal_w FLOAT(50),
        class VARCHAR(20)
    );
    ```
